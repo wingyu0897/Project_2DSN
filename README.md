@@ -1,1 +1,1 @@
-# Project_2DSN의 Repository
+# $Project - 2DSN's Repository$
